@@ -8,7 +8,7 @@
     "verified": "11",
     "maximum": "11"
   },
-  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/pf2e-abomination-vaults/module.json",
+  "manifest": "https://github.com/kokolo21/av/blob/main/module.json",
   "authors": [
     {
       "name": "Andrew Clayton",
