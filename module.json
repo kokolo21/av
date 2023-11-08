@@ -68,5 +68,5 @@
       "pf2e-art": "modules/pf2e-abomination-vaults/image-mapping.json"
     }
   },
-  "protected": true
+  "protected": false
 }
